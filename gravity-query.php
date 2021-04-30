@@ -60,7 +60,7 @@ function acgf_my_custom_submenu_page_callback() {
         <p>Choose a Date Range</p>
         <?php
         acf_form([
-			'field_groups' => [44644],
+			'field_groups' => [47977],
 			'post_id' => 'options',
 			'submit_value' => 'Query Entries',
 			//'html_before_fields' => $html
@@ -123,9 +123,9 @@ function acgf_my_custom_submenu_page_callback() {
 		</div>
 		<?php 
 
-		echo '<pre>';
-		print_r($entries);
-		echo '</pre>';
+		// echo '<pre>';
+		// print_r($entries);
+		// echo '</pre>';
 
     echo '</div>';
 } ?>
