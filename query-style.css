@@ -1,0 +1,15 @@
+body.tools_page_form-entry-query .acf-field-date-picker {
+	width: 300px;
+	display: inline-block;
+}
+#gf-form-id {
+	width: 100px;
+}
+.queryresults {
+	width: 100%;
+	padding: 30px;
+	font-size: 20px;
+	background-color: #fff;
+	line-height: 2;
+	margin: 30px 0;
+}
